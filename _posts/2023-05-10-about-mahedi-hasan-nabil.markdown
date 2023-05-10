@@ -1,7 +1,12 @@
 ---
 published: true
+layout: post
+description: this is the about me page of mahedi hasan nabil
+img: about_me.jpeg
+tags:
+  - about me
+  - about mahedi hasan nabil
 ---
-![]({{site.baseurl}}/https://github.com/mhnabilcoder/blog/blob/0e68ed83ad59b926eaefc41b4e6b2beba316827e/_posts/about_me.jpeg?raw=true)
 ## About Mahedi Hasan Nabil
 Hey! I am Mahedi Hasan Nabil. Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.
 
