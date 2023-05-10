@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-description: this is the about me page of mahedi hasan nabil
+description: null
 img: about_me.jpeg
 tags:
   - about me
