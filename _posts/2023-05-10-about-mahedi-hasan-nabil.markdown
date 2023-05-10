@@ -7,7 +7,6 @@ tags:
   - about me
   - about mahedi hasan nabil
 ---
-## About Me
 Hey! I am Mahedi Hasan Nabil. Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.
 
 I am a business student and a flutter app developer. I have always been fascinated by the power and potential of technology to transform our lives and solve real-world problems. That's why I started learning how to code when I was eleven years old.
