@@ -3,7 +3,7 @@ published: false
 ---
 ## About Mahedi Hasan Nabil
 
-![about_me.jpeg]({{site.baseurl}}/assets/img/about_me.jpeg)
+![about_me.jpeg]({{site.baseurl}}/_posts/about_me.jpeg)
 
 Hey! I am Mahedi Hasan Nabil. Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.
 
