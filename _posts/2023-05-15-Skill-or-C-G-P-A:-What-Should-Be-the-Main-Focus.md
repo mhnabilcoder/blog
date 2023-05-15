@@ -3,7 +3,7 @@ published: true
 layout: post
 tags:
   - thinking
-img: i-rest.jpg
+img: post_img/post1.png
 ---
 ## Skill or CGPA: What Should Be the Main Focus?
 
