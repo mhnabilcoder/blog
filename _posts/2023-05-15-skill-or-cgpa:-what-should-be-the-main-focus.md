@@ -5,6 +5,7 @@ tags:
   - thinking
 img: post_img/post1.png
 comment: true
+comments: true
 ---
 ## Skill or CGPA: What Should Be the Main Focus?
 
