@@ -19,8 +19,8 @@ social-linkedin: mahedi-hasan-nabil # add your Linkedin handle
 social-email: mhnabilcoder@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: https-mhnabilcoder-github-io  # add your discus identifier
-comments: true
+  disqus:
+    shortname: https-mhnabilcoder-github-io
 
 
 # Tracker
