@@ -20,7 +20,7 @@ social-email: mhnabilcoder@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: https://https-mhnabilcoder-github-io  # add your discus identifier
-defaults: - scope: path: "" type: "posts" values: comments: true
+comments: true
 
 
 # Tracker
