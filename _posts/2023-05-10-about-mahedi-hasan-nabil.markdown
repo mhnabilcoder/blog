@@ -6,6 +6,7 @@ img: about_mhn.jpeg
 tags:
   - about me
   - about mahedi hasan nabil
+comments: false
 ---
 Hey! I am Mahedi Hasan Nabil. Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.
 
