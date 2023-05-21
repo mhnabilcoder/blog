@@ -3,10 +3,10 @@ published: true
 layout: post
 tags:
   - thinking
-img: post_img/post1.png
+img: post1.png
 comment: true
 comments: true
-image: post_img/post1.png
+image: post1.png
 type: article
 description: >-
   As students, we are often pressured to focus solely on achieving a high CGPA.
