@@ -2,7 +2,7 @@
 published: true
 layout: post
 type: article
-image: post_img/p20.jpeg
+image: post_img/post2.jpeg
 tags:
   - anime
 description: >-
@@ -13,9 +13,9 @@ description: >-
   explore why anime is not just another cartoon, but a powerful medium that
   appeals to adults and addresses profound themes.
 title: 'Why Adults Like Anime? '
-img: post_img/p20.jpeg
+img: post_img/post2.jpeg
 ---
-While I was watching anime in my room, my mom suddenly appeared and said, "Whenever I come into your room, I see you watching cartoons all day." I didn't know how to counter her statement, so I said, "Mom, it's not a cartoon. It's anime." However, she still insisted that it was a cartoon. I was at a loss for words and ended up saying, "Well.. it's a cartoon for adults." I couldn't help but wonder how I could explain it better to her 🤔
+While I was watching anime in my room, my mom suddenly appeared and said, "Whenever I come into your room, I see you watching cartoons all day." I didn't know how to counter her statement, so I said, "Mom, it's not a cartoon. It's anime." However, she still insisted that it was a cartoon. I was at a loss for words and ended up saying, "Well... it's a cartoon for adults." I couldn't help but wonder how I could explain it better to her 🤔
 
 Anime, often misunderstood as a form of cartoon entertainment, has risen to become a significant cultural phenomenon worldwide. With its diverse genres, complex narratives, and compelling characters, anime captures the hearts and minds of both the young and the young at heart. In this article, we will explore why anime is not just another cartoon, but a powerful medium that appeals to adults and addresses profound themes. 
 
