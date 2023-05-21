@@ -1,14 +1,16 @@
 title: Mahedi Hasan Nabil's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.
+   Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.Through this blog site, I hope to share my knowledge and experience with you, as well as learn from your feedback and comments.
+
 permalink: ':title/'
+image: preview.png
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mhnabilcoder.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Mahedi Hasan Nabil # add your name
-author-img: preview.png # add your photo
+author-img: passport.jpeg # add your photo
 about-author: Thanks for reading.. if you are interested to know more please visit my website # add description
 social-website: mhnabilcoder.github.io/ # add your Twitter handle
 social-facebook: mahedi.hasan.nabil # add your Facebook handle
