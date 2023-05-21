@@ -5,7 +5,7 @@ tags:
   - anime
 img: post_img/20.jpeg
 title: Why Adults Like Anime? What Makes Anime Different.
-image: null
+image: post_img/20.jpeg
 description: >-
   Anime, often misunderstood as a form of cartoon entertainment, has risen to
   become a significant cultural phenomenon worldwide. With its diverse genres,
