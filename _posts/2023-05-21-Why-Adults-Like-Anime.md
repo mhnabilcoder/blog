@@ -13,6 +13,7 @@ description: >-
   minds of both the young and the young at heart. In this article, we will
   explore why anime is not just another cartoon, but a powerful medium that
   appeals to adults and addresses profound themes.
+type: article
 ---
 While I was watching anime in my room, my mom suddenly appeared and said, "Whenever I come into your room, I see you watching cartoons all day." I didn't know how to counter her statement, so I said, "Mom, it's not a cartoon. It's anime." However, she still insisted that it was a cartoon. I was at a loss for words and ended up saying, "Well... it's a cartoon for adults." I couldn't help but wonder how I could explain it better to her…🤔
 
