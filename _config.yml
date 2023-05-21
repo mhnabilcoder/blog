@@ -1,9 +1,9 @@
 title: Mahedi Hasan Nabil's Blog
 description: > # this means to ignore newlines until "baseurl:"
-   Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.Through this blog site, I hope to share my knowledge and experience with you, as well as learn from your feedback and comments..
+   Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.Through this blog site, I hope to share my knowledge and experience with you, as well as learn from your feedback and comments...
 
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mhnabilcoder.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 image: https://mhnabilcoder.github.io/blog/assets/img/preview.png
 site-twitter: #if your site has a twitter account, enter it here
