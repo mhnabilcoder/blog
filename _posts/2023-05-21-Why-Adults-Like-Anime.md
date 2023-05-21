@@ -2,7 +2,7 @@
 published: true
 layout: post
 type: article
-image: post_img/20.jpeg
+image: post_img/p20.jpeg
 tags:
   - anime
 description: >-
