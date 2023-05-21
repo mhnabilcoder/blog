@@ -1,8 +1,6 @@
 title: Mahedi Hasan Nabil's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my blog site, where I share my thoughts and insights on various topics related to technology, business, and lots of other things.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mhnabilcoder.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Mahedi Hasan Nabil # add your name
-author-img: passport.jpeg # add your photo
+author-img: preview.png # add your photo
 about-author: Thanks for reading.. if you are interested to know more please visit my website # add description
 social-website: mhnabilcoder.github.io/ # add your Twitter handle
 social-facebook: mahedi.hasan.nabil # add your Facebook handle
