@@ -13,6 +13,7 @@ description: >-
   explore why anime is not just another cartoon, but a powerful medium that
   appeals to adults and addresses profound themes.
 title: Why Adults Like Anime? What Makes Anime Different.
+img: post_img/20.jpeg
 ---
 While I was watching anime in my room, my mom suddenly appeared and said, "Whenever I come into your room, I see you watching cartoons all day." I didn't know how to counter her statement, so I said, "Mom, it's not a cartoon. It's anime." However, she still insisted that it was a cartoon. I was at a loss for words and ended up saying, "Well... it's a cartoon for adults." I couldn't help but wonder how I could explain it better to her…🤔
 
@@ -28,6 +29,7 @@ Anime is Japanese animation, but it differs from traditional cartoons in its gen
 "Death Note" is an exemplar anime that delves into the psychological and moral implications of possessing the power to determine life and death. This gripping series follows the battle of wits between a brilliant high school student, Light Yagami, and a mysterious detective known as L. It raises questions about justice, the nature of evil, and the ethical boundaries of power. "Death Note" challenges viewers to reflect on their own sense of morality and the consequences of their actions. **Soon I will write a post about the philosophies of Death Note.**
 
 ![]({{site.baseurl}}/assets/img/post_img/22.jpeg)
+
 "Naruto" is another anime that captivates adult audiences with its profound themes. This long-running series explores the journey of a young ninja named Naruto Uzumaki as he seeks recognition and battles his inner demons. It delves into themes of friendship, perseverance, redemption, and the pursuit of one's dreams. "Naruto" addresses real-life struggles through its characters' experiences, allowing viewers to relate to their emotional and personal growth.
 
 ### Why Adults Are Drawn to Anime:
