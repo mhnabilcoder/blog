@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 type: article
 image: post_img/20.jpeg
@@ -41,4 +41,3 @@ Many people facing depression or emotional turmoil find solace in anime, myself 
 Anime is a distinct medium that transcends the conventional perception of cartoons. With its thought-provoking ideas, deep character development, and exploration of complex themes, anime appeals to adults seeking intellectual stimulation and emotional engagement. Moreover, anime has emerged as a powerful tool for individuals battling depression, offering a sense of connection, inspiration, and temporary respite. As anime continues to gain global recognition, its impact on entertainment and emotional healing should not be underestimated. So it would be a little unfair to call it just a cartoon.
 
 However, one cannot fully understand it until they experience it themselves. Therefore, it's impossible for me to explain it to my mom.😅
-
