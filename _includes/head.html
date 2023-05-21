@@ -42,7 +42,7 @@
     <meta content="{{ site.url }}/about/" property="article:author">
   {% endif %}
   {% if page.img %}
-    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}" property="og:image">
+    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/post_img/{{ page.img }}" property="og:image">
   {% else %}
     <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}" property="og:image">
   {% endif %}
@@ -101,5 +101,4 @@
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
   
   {% seo %}
-  
 </head>
