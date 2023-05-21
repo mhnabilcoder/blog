@@ -6,6 +6,14 @@ tags:
 img: post_img/post1.png
 comment: true
 comments: true
+image: post_img/post1.png
+type: article
+description: >-
+  As students, we are often pressured to focus solely on achieving a high CGPA.
+  We believe that our grades define our worth and pave the way for a successful
+  future. But the truth is, a CGPA is just a number, and it does not truly
+  define who we are as individuals. What truly matters in the real world are the
+  skills we possess and our ability to apply them in different situations.
 ---
 ## Skill or CGPA: What Should Be the Main Focus?
 
