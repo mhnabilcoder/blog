@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Hey Everyone! I have set to write after a long time. But today I have sat to discuss a topic that I believe a lot of people of my generation who are very interested are very enthusiastic about programming and tech or going to choose their final career path in some time should know about this.
 Many of you might know that I have done an internship at a tech company as a junior app developer. It was like a dream come true. I have decided to be a software developer since I was in 8th standard. Which comes from my passion for technology. Hardships of all those years were going to finally pay off but then I decided to quit.
