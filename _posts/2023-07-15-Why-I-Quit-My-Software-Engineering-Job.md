@@ -10,7 +10,7 @@ description: >-
   Nowadays every Tom, Dick, and Harry wants to study CSE to become a software
   developer. But Is that so fancy anymore? In this post, I have tried to explain
   my experience as an app developer intern and the reasons I have quit my job.
-img: post_img/post3.png
+img: post_img/post03.png
 ---
 Hey Everyone! I have sat to write after a long time. But today I have want to discuss a topic that I believe a lot of people of my generation who are very interested are very enthusiastic about programming and tech or going to choose their final career path in some time should know about this.
 Many of you might know that I have done an internship at a tech company as a junior app developer. It was like a dream come true. I have decided to be a software developer since I was in 8th standard. Which comes from my passion for technology. Hardships of all those years were going to finally pay off but then I decided to quit.
