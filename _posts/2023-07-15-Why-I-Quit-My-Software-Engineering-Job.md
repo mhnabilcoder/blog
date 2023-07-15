@@ -17,8 +17,8 @@ Many of you might know that I have done an internship at a tech company as a jun
 **How did I get that job for myself? Let’s keep that for another day.**
 I was in a position where six months of dedication could give me a permanent job as a Junior Software Developer. There was also a fresher doing an internship after completing his undergraduate. So in that sense you can say I could have just gotten a good career Yet I decided to quit it.
 ## What are those reasons??
-There are some reasons that I want to tell you but before that let me tell you this. In my interview, my interviewer asked me why I want to do this job and my answer was exactly this:
-> I want to see this industry more closely.I want to understand the office culture and how things in real life.
+There are some reasons that I want to tell you but before that let me tell you this. In my interview, my interviewer asked me why I wanted to do this job and my answer was exactly this:
+> I want to see this industry more closely.I want to understand the office culture and how things are  in real life.
 
 And I was honest about what I said. There isn't any reason other than that for me to do that internship. The kinds of things I have learned from that and the knowledge and experience I have gained changed my perspective. I don't intend to demotivate any of you rather I want you guys to know what to expect. Nowadays every Tom, Dick, and Harry wants to study CSE to become a software engineer. But Is that so fancy anymore? In this post, I have tried to explain
 my experience as an app developer intern and the reasons I have quit my job.
