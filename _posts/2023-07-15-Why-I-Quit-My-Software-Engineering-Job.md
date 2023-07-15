@@ -12,9 +12,9 @@ description: >-
   my experience as an app developer intern and the reasons I have quit my job.
 img: post_img/post03.png
 ---
-Hey Everyone! I have sat to write after a long time. But today I have want to discuss a topic that I believe a lot of people of my generation who are very interested are very enthusiastic about programming and tech or going to choose their final career path in some time should know about this.
+Hey Everyone! I have sat to write after a long time. Today I want to discuss on a topic that I believe a lot of people of my generation who are very enthusiastic about programming and tech or going to choose their final career path in some time should know about this.
 Many of you might know that I have done an internship at a tech company as a junior app developer. It was like a dream come true. I have decided to be a software developer since I was in 8th standard. Which comes from my passion for technology. Hardships of all those years were going to finally pay off but then I decided to quit.
-How did I get that job for myself? Let’s keep that for another day.
+**How did I get that job for myself? Let’s keep that for another day.**
 I was in a position where six months of dedication could give me a permanent job as a Junior Software Developer. There was also a fresher doing an internship after completing his undergraduate. So in that sense you can say I could have just gotten a good career Yet I decided to quit it.
 ## What are those reasons??
 There are some reasons that I want to tell you but before that let me tell you this. In my interview, my interviewer asked me why I want to do this job and my answer was exactly this:
